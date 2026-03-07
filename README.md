@@ -109,10 +109,12 @@
   <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
----
+---  </a>
+</p>
+
 
 ## ❤️ Support Me
-
+</a>
 <p align="center">
   <a href="https://www.buymeacoffee.com/midhun_mike">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
