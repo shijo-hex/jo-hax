@@ -77,62 +77,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in modern web
 ## 📌 Featured Projects
 
 ### **Project 1: E-Commerce Platform**
-A full-featured e-commerce solution built with modern technologies.
-
-- **Description:** Complete e-commerce platform with product catalog, shopping cart, payment integration, and admin dashboard
-- **Tech Stack:** React, Node.js, Express, MongoDB, Stripe API, JWT Authentication
-- **Key Features:** 
-  - Responsive UI with TailwindCSS
-  - Secure user authentication & authorization
-  - Real-time order tracking
-  - Admin analytics dashboard
-- **Impact:** Processed 100+ transactions with 99.5% uptime
-- 🔗 [View Repository](https://github.com/jo-hax/ecommerce-platform)
-
----
-
-### **Project 2: Real-Time Chat Application**
-A modern chat application with real-time messaging capabilities.
-
-- **Description:** Interactive chat platform with user authentication, real-time messaging, and file sharing
-- **Tech Stack:** React, Node.js, Socket.io, MongoDB, Firebase Authentication
-- **Key Features:**
-  - Real-time message delivery using WebSockets
-  - User presence and typing indicators
-  - File & image sharing
-  - Responsive mobile design
-- 🔗 [View Repository](https://github.com/jo-hax/chat-app)
-
----
-
-### **Project 3: Task Management Dashboard**
-A collaborative task management tool for teams.
-
-- **Description:** Full-stack task manager with real-time updates and team collaboration features
-- **Tech Stack:** Next.js, TypeScript, Node.js, PostgreSQL, Prisma ORM
-- **Key Features:**
-  - Kanban board interface
-  - Real-time collaboration
-  - Task assignment & notifications
-  - Team analytics
-- 🔗 [View Repository](https://github.com/jo-hax/task-dashboard)
-
----
-
-### **Project 4: Weather App**
-A responsive weather application with real-time data.
-
-- **Description:** Beautiful weather app with location-based forecasts and weather alerts
-- **Tech Stack:** React, Node.js, OpenWeather API, Geolocation API
-- **Key Features:**
-  - Real-time weather updates
-  - 7-day forecast
-  - Weather alerts
-  - Multiple location support
-- 🔗 [View Repository](https://github.com/jo-hax/weather-app)
-
----
-
+ ....
 ## 📊 GitHub Statistics
 
 <div align="center">
