@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | MERN Specialist | Web Enthusiast
 
-[LinkedIn](https://www.linkedin.com/in/shijo-sylan/) • [Email](mailto:shijosylan@gmail.com) • [GitHub](https://github.com/jo-hax)
+[LinkedIn](https://www.linkedin.com/in/shijo-sylan/) • [Email](mailto:shijosylan@gmail.com) • [GitHub](https://github.com/shijo-hex)
 
 </div>
 
